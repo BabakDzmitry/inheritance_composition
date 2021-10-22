@@ -1,0 +1,1 @@
+https://webdevblog.ru/nasledovanie-i-kompoziciya-rukovodstvo-po-oop-python/#implementation-inheritance-vs-interface-inheritance
