@@ -1,6 +1,8 @@
-from hr import SalaryEmployee, PayrollSystem, Employee
-from hr import HourlyEmployee
 from hr import CommissionEmployee
+from hr import Employee
+from hr import HourlyEmployee
+from hr import PayrollSystem
+from hr import SalaryEmployee
 
 salary_employee = SalaryEmployee(1, "John Smith", 1500)
 hourly_employee = HourlyEmployee(2, "John Doe", 40, 15)
@@ -13,4 +15,3 @@ payroll_system.calculate_payroll(
         commission_employee,
     ]
 )
-
