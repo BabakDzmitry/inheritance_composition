@@ -1,5 +1,4 @@
 from hr import CommissionEmployee
-from hr import Employee
 from hr import HourlyEmployee
 from hr import PayrollSystem
 from hr import SalaryEmployee
